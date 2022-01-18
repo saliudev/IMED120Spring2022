@@ -29,3 +29,5 @@ Hi I'm Jaida, I like video games a lot
 Hey all, Maxwell Minton here. And I am pretty cool. Don't know what else to put here so I'm sticking with that.
 >>>>>>> a59bd8d3149fd613fec296a41115154113e7434b
 MY name is keavon ans i like to go to the gym
+
+My name is Jean Paul Orejuela and I'm a student at HU!
