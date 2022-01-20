@@ -34,3 +34,5 @@ Hey all, Maxwell Minton here. And I am pretty cool. Don't know what else to put 
 MY name is keavon ans i like to go to the gym
 
 My name is Jean Paul Orejuela and I'm a student at HU!
+
+My name is Jasmine and my favorite color is blue.
