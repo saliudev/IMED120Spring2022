@@ -1,4 +1,4 @@
-Hello I am Kyle, I play games
+Hello I am Kyle, I like to play videogames.
 # IMED120Spring2022
 An open source project for our great students!
 
