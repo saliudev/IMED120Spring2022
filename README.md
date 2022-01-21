@@ -1,27 +1,11 @@
+Hello I am Kyle, I play games
 # IMED120Spring2022
 An open source project for our great students!
 
-Hi, I'm Troyan! I like to sleep. 
 
 Hello this is jaden
-
 Hi I am a Human, sadly-Samyah Carr
-
-Hello this is jaden
-
-Hi I am a Human, sadly-Samyah Carr
-
-Hello, this is Ethan
-
-hello my name is keavona and i like to go to the gym
-
-An open source project for our great students!
-
-Hi, This is Dr. Sa Liu, Happy Week 2
-
-Hello this is jaden
-
-Hi I am a Human, sadly-Samyah Carr
+<<<<<<< Updated upstream
 
 Hello, this is Ethan
 
@@ -36,3 +20,6 @@ MY name is keavon ans i like to go to the gym
 My name is Jean Paul Orejuela and I'm a student at HU!
 
 My name is Jasmine and my favorite color is blue.
+=======
+Hello, this is Ethan
+>>>>>>> Stashed changes
